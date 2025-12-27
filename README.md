@@ -1,8 +1,5 @@
 # Prediction-Of-Dyslexia-Autism-ADHD-Using-Natural-Language-Processing
 ```markdown
-# Neurodevelopmental Screening Tool
-
-This Google Colab notebook provides a preliminary screening tool for Dyslexia, Autism-Spectrum Disorder (ASD), and Attention-Deficit/Hyperactivity Disorder (ADHD). It combines a sentence-copying test for dyslexia with questionnaire-based assessments for ASD and ADHD, generating a consolidated PDF report of the results.
 
 ## Table of Contents
 1. [Features](#features)
